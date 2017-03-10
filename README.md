@@ -1,4 +1,4 @@
-# rgbcolorgame
+# Jaro's RGB Color Game
 
 This RGB Color Game was created utilizing HTML5/CSS/JavaScript & jQuery.
 
