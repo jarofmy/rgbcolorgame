@@ -1,5 +1,6 @@
 # rgbcolorgame
-Simple game where you choose the visual representation of a randomize RGB color code.
+
+This RGB Color Game was created utilizing HTML5/CSS/JavaScript & jQuery.
 
 A randomized RGB color code will be displayed at the top of the game.
 
